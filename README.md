@@ -1,6 +1,6 @@
 # djangogirl-coach guide
 
-## Set Up a GitHub Repository
+## Set Up a GitHub Repository if starting from github codespaces
 1. Create a New Repository:
    - Go to [GitHub](https://github.com) and create a new repository.
    - Pick a name.
@@ -10,6 +10,9 @@
    - Navigate to the repository page.
    - Click the **Code** button and select **Codespaces > Create codespace on main**.
    - This will launch a new Codespace for your repository.
+
+Note: if starting from local machine, follow the instructions below to set up a local environment.
+https://tutorial.djangogirls.org/en/deploy/ 
 
 
 ## Install Python Dependencies :
@@ -75,4 +78,6 @@ Push the changes to your repository:
 git push origin main
 ```
 
+#### Walk through the turorial: 
+https://tutorial.djangogirls.org/en/django_models/
 
