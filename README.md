@@ -1,4 +1,4 @@
-# djangogirl-coach guide
+# djangogirl-coach guide 2025 Grand Rapids
 
 ## Set Up a GitHub Repository if starting from github codespaces
 1. Create a New Repository:
